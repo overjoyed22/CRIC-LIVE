@@ -1,15 +1,13 @@
 {
-  "name": "cricket-score-app",
+  "name": "your-app-name",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://overjoyed22.github.io/CRIC-LIVE",  
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0",
+    "gh-pages": "^3.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
